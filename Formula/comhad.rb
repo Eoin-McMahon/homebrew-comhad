@@ -1,8 +1,8 @@
 class Comhad < Formula
   desc "Ranger-style terminal browser for S3 with previews, transfers, and sync"
   homepage "https://github.com/Eoin-McMahon/Comhad"
-  url "https://github.com/Eoin-McMahon/Comhad/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "05485401baf65d45c65dc890dcc083046b2cc0d32d2c753bf45f9c46f117eb76"
+  url "https://github.com/Eoin-McMahon/Comhad/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "3a33c0948db7aabff8306226a86cc1f58d933dcc4af2520239506e771920aa00"
   license "MIT"
   head "https://github.com/Eoin-McMahon/Comhad.git", branch: "master"
 
